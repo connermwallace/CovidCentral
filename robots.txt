@@ -1,1 +1,1 @@
-http://www.google.com/ping?sitemap=http://covidcentral.info/sitemap.xml
+http://www.google.com/ping?sitemap=http://covidcentral.info/sitemap.txt
